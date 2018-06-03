@@ -5,6 +5,7 @@
 - [Data Science](#data-science)
 - [Design](#design)
 - [Design, negócios, tendências e desenvolvimento](#design,_negócios,_tendências_e_desenvolvimento)
+- [Inglês](#ingles)
 ----
 
 ## Comunidade
@@ -36,4 +37,6 @@
 - [Chatbots Brasil](http://chatbotsbrasil.take.net/)
 - [@nathliaoliveira_96825](https://medium.com/@nathliaoliveira_96825)
 
+## Inglês
 
+- [Chatbots Magazine](https://chatbotsmagazine.com/?gi=4a300800a387)
